@@ -1,0 +1,6 @@
+D:\Estudos\Alura\AprendendoCSharp\2 - CriandoVariaveis\obj\Debug\2 - CriandoVariaveis.csproj.CoreCompileInputs.cache
+D:\Estudos\Alura\AprendendoCSharp\2 - CriandoVariaveis\bin\Debug\2 - CriandoVariaveis.exe.config
+D:\Estudos\Alura\AprendendoCSharp\2 - CriandoVariaveis\bin\Debug\2 - CriandoVariaveis.exe
+D:\Estudos\Alura\AprendendoCSharp\2 - CriandoVariaveis\bin\Debug\2 - CriandoVariaveis.pdb
+D:\Estudos\Alura\AprendendoCSharp\2 - CriandoVariaveis\obj\Debug\2 - CriandoVariaveis.exe
+D:\Estudos\Alura\AprendendoCSharp\2 - CriandoVariaveis\obj\Debug\2 - CriandoVariaveis.pdb

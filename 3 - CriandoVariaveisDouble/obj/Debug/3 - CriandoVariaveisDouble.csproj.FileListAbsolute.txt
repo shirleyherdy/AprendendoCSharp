@@ -1,0 +1,7 @@
+D:\Estudos\Alura\AprendendoCSharp\3 - CriandoVariaveisDouble\bin\Debug\3 - CriandoVariaveisDouble.exe.config
+D:\Estudos\Alura\AprendendoCSharp\3 - CriandoVariaveisDouble\bin\Debug\3 - CriandoVariaveisDouble.exe
+D:\Estudos\Alura\AprendendoCSharp\3 - CriandoVariaveisDouble\bin\Debug\3 - CriandoVariaveisDouble.pdb
+D:\Estudos\Alura\AprendendoCSharp\3 - CriandoVariaveisDouble\obj\Debug\3 - CriandoVariaveisDouble.csproj.CoreCompileInputs.cache
+D:\Estudos\Alura\AprendendoCSharp\3 - CriandoVariaveisDouble\obj\Debug\3 - CriandoVariaveisDouble.exe
+D:\Estudos\Alura\AprendendoCSharp\3 - CriandoVariaveisDouble\obj\Debug\3 - CriandoVariaveisDouble.pdb
+D:\Estudos\Alura\AprendendoCSharp\3 - CriandoVariaveisDouble\obj\Debug\3 - CriandoVariaveisDouble.csprojAssemblyReference.cache

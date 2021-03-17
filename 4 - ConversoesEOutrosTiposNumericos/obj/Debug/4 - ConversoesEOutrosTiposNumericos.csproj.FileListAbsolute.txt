@@ -1,0 +1,7 @@
+D:\Estudos\Alura\AprendendoCSharp\4 - ConversoesEOutrosTiposNumericos\obj\Debug\4 - ConversoesEOutrosTiposNumericos.csprojAssemblyReference.cache
+D:\Estudos\Alura\AprendendoCSharp\4 - ConversoesEOutrosTiposNumericos\obj\Debug\4 - ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+D:\Estudos\Alura\AprendendoCSharp\4 - ConversoesEOutrosTiposNumericos\bin\Debug\4 - ConversoesEOutrosTiposNumericos.exe.config
+D:\Estudos\Alura\AprendendoCSharp\4 - ConversoesEOutrosTiposNumericos\bin\Debug\4 - ConversoesEOutrosTiposNumericos.exe
+D:\Estudos\Alura\AprendendoCSharp\4 - ConversoesEOutrosTiposNumericos\bin\Debug\4 - ConversoesEOutrosTiposNumericos.pdb
+D:\Estudos\Alura\AprendendoCSharp\4 - ConversoesEOutrosTiposNumericos\obj\Debug\4 - ConversoesEOutrosTiposNumericos.exe
+D:\Estudos\Alura\AprendendoCSharp\4 - ConversoesEOutrosTiposNumericos\obj\Debug\4 - ConversoesEOutrosTiposNumericos.pdb

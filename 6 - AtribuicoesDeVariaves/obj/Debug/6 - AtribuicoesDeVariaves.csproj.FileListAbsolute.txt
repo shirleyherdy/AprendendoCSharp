@@ -1,0 +1,7 @@
+D:\Estudos\Alura\AprendendoCSharp\6 - AtribuicoesDeVariaves\bin\Debug\6 - AtribuicoesDeVariaves.exe.config
+D:\Estudos\Alura\AprendendoCSharp\6 - AtribuicoesDeVariaves\bin\Debug\6 - AtribuicoesDeVariaves.exe
+D:\Estudos\Alura\AprendendoCSharp\6 - AtribuicoesDeVariaves\bin\Debug\6 - AtribuicoesDeVariaves.pdb
+D:\Estudos\Alura\AprendendoCSharp\6 - AtribuicoesDeVariaves\obj\Debug\6 - AtribuicoesDeVariaves.csprojAssemblyReference.cache
+D:\Estudos\Alura\AprendendoCSharp\6 - AtribuicoesDeVariaves\obj\Debug\6 - AtribuicoesDeVariaves.csproj.CoreCompileInputs.cache
+D:\Estudos\Alura\AprendendoCSharp\6 - AtribuicoesDeVariaves\obj\Debug\6 - AtribuicoesDeVariaves.exe
+D:\Estudos\Alura\AprendendoCSharp\6 - AtribuicoesDeVariaves\obj\Debug\6 - AtribuicoesDeVariaves.pdb
