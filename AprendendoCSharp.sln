@@ -31,6 +31,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11 - CalculaPoupanca2", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12 - CalculaInvestimentoLongoPrazo", "P12 - CalculaInvestimentoLongoPrazo\P12 - CalculaInvestimentoLongoPrazo.csproj", "{4C0EC7AE-CB62-4230-BC6A-2E9C1B3AB47F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8705D95B-E948-4BF2-BE20-780858BC7934}"
+	ProjectSection(SolutionItems) = preProject
+		LacoDeRepeticaoFor\Program.cs = LacoDeRepeticaoFor\Program.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

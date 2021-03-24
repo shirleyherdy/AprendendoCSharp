@@ -10,9 +10,17 @@ namespace LacoDeRepeticaoFor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Imprimindo números de 0 a 10 com For");
-            for (int contador = 0; contador <= 10; contador++)
-                Console.WriteLine(contador);
+
+            Console.WriteLine("Imprimindo tabuada de 0 a 10 com For");
+            for (int multiplicador = 0; multiplicador <=10 ; multiplicador++)
+			{               
+                for (int contador = 0; contador <= 10; contador++)
+                {    
+                    Console.WriteLine(contador + " * " + multiplicador + " = " + contador * multiplicador);
+                    Console.WriteLine();
+                }
+            }
+            
 
             Console.ReadLine();
         }
