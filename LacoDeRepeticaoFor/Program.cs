@@ -16,9 +16,10 @@ namespace LacoDeRepeticaoFor
 			{               
                 for (int contador = 0; contador <= 10; contador++)
                 {    
-                    Console.WriteLine(contador + " * " + multiplicador + " = " + contador * multiplicador);
+                    Console.WriteLine(multiplicador + " * " + contador + " = " + contador * multiplicador);
                     Console.WriteLine();
                 }
+                Console.WriteLine();
             }
             
 
